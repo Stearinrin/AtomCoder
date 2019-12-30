@@ -1,0 +1,18 @@
+{
+  "name": "atom-coder",
+  "main": "./lib/atom-coder",
+  "version": "0.1.0",
+  "description": "Supports your fast programming in AtCoder.",
+  "keywords": [
+    "AtCoder"
+  ],
+  "activationCommands": {
+    "atom-workspace": "AtomCoder:toggle"
+  },
+  "repository": "https://github.com/atom/atom-coder",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.41.0 <2.0.0"
+  },
+  "dependencies": {}
+}
